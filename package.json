@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Alohith76/reactcicd1.git",
+  "homepage": "https://github.com/avamsi46/recatcicd.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
